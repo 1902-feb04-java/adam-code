@@ -1,0 +1,4 @@
+extensions for VSCode week 1:
+    Auto CLose Tag
+    Auto Rename Tag
+    HTML CSS Support
